@@ -7,9 +7,9 @@
 
 ## 公会主页（建设中）：
 
-- [x] [it-wow.github.io](it-wow.github.io)
-- [ ] [itwow.cn](itwow.cn)
-- [ ] [wow-it.cn](wow-it.cn)
+- [x] [it-wow.github.io](https://it-wow.github.io)
+- [x] [itwow.cn](https://itwow.cn)
+- [ ] [wow-it.cn](https://wow-it.cn)
 
 - 公会主页代码（Hexo）：[it-wow/hexo](https://github.com/it-wow/hexo)
 - 公会主页发布：[it-wow.github.io](https://github.com/it-wow/it-wow.github.io)
